@@ -12,6 +12,7 @@ src_managed/
 project/boot/
 project/target
 project/plugins/project/
+/project/project/target
 
 # Scala-IDE specific
 .scala_dependencies
@@ -23,3 +24,5 @@ project/plugins/project/
 *~
 
 /dev/temp_data
+/.idea/
+/.bsp/
